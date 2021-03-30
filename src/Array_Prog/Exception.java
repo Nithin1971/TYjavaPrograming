@@ -97,8 +97,5 @@ public class Exception {
 				// TODO: handle finally clause
 			}
 		}
-
-
-
 	}
 }
